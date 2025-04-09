@@ -1,5 +1,4 @@
-# Prog-concorrente-entrega1
-
+# Primeiro trabalho de prog concorrente
 **COMPILAÇÃO**
 
 Para compilar seq.c: gcc -o seq  seq.c -Wall -lm
