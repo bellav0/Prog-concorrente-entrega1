@@ -1,4 +1,3 @@
-// arquivo para gerar vetores aleatórios, calcular seu produto interno e armazenar em um arquivo
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
