@@ -2,6 +2,7 @@
 **COMPILAÇÃO**
 
 Para compilar seq.c: gcc -o seq  seq.c -Wall -lm
+
 Para compilar conc.c: gcc -o conc  conc.c -Wall -lm
 
 
