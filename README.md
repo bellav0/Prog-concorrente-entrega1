@@ -7,6 +7,7 @@ Para compilar conc.c: gcc -o conc  conc.c -Wall -lm
 
 
 **EXECUCÃO**
+
 Para executar seq.c: ./seq <tamanho/dimensão do vetor> <nome do arquivo>. Ex.: ./seq 10 arquivoSaida.bin
 
 Para executar conc.c: ./conc <número de threads> <arquivo de sáida do seq.c>. Ex.: ./conc 5 arquivoSaida.bin
